@@ -2,7 +2,9 @@
 
 Developed by Kaveh Majidi @ ALE
 
-Some Examples on how to use Python to connect to AOS over SSH. In this example, "show system" command is sent to switch. Any other CLI command can be sent using this method. If the CLI command have an output, the output will be returned in stdout.
+Some Examples on how to use Python to connect to AOS over SSH. 
+In this example, "show system" command is sent to switch. Any other CLI command can be sent using this method. If the CLI command have an output, the output will be returned in stdout.
+The Paramiko Python Library is used in this example.
 
 switch_list.yaml file includes a list of switches with their respective IPs and login credentials that the scripts will be executed on.  
 
