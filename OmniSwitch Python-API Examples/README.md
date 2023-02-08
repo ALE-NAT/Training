@@ -1,4 +1,4 @@
-OmniSwitch Python-API		:	Omniswitch provides a rich API to perform pretty much everything that can be executed through CLI. There are two flavors of API access to Omniswitch:
+OmniSwitch Python-API		:	Omniswitch provides a rich API to perform pretty much everything that can be executed through CLI. There are two flavors of API access to OmniSwitch:
 
 a. API call to CLI		:	This is an API call that is initiated from an external system to OmniSwitch. A CLI command is sent in the API request and the output of the command is returned as API response. The response is returned as plain text in a JSON object and needs to be parsed.
 
