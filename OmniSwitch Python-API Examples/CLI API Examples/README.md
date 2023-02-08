@@ -5,5 +5,5 @@ switch_list.yaml file includes a list of switches with their respective IPs and 
 Examples:
 1.	Connect to switch using an API call and pull VLAN table
 2.	Connect to switch using an API call and create a VLAN 
-3.	Connect to switch using an API call and linkagg table
+3.	Connect to switch using an API call and pull linkagg table
 4.	Connect to switch using an API call and apply multiple QOS commands
