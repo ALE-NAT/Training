@@ -1,7 +1,7 @@
 # OV-API Examples
 
 Developed or revised by Kaveh Majidi @ ALE
-Some Examples on how to use OmniVista API with Python
+Some Examples on how to use OmniVista API with Python.
 
 # Credits
 
